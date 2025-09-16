@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "countryId": 1,
+    "name": "Актау"
+  },
+  {
+    "id": 2,
+    "countryId": 1,
+    "name": "Актобе"
+  },
+  {
+    "id": 3,
+    "countryId": 1,
+    "name": "Алматы"
+  },
+  {
+    "id": 4,
+    "countryId": 1,
+    "name": "Аркалык"
+  },
+  {
+    "id": 5,
+    "countryId": 1,
+    "name": "Астана"
+  },
+  {
+    "id": 6,
+    "countryId": 1,
+    "name": "Атырау"
+  },
+  {
+    "id": 7,
+    "countryId": 1,
+    "name": "Екибастуз"
+  },
+  {
+    "id": 8,
+    "countryId": 1,
+    "name": "Жезказган"
+  },
+  {
+    "id": 9,
+    "countryId": 1,
+    "name": "Караганда"
+  },
+  {
+    "id": 10,
+    "countryId": 1,
+    "name": "Кокшетау"
+  },
+  {
+    "id": 11,
+    "countryId": 1,
+    "name": "Костанай"
+  },
+  {
+    "id": 12,
+    "countryId": 1,
+    "name": "Кызылорда"
+  },
+  {
+    "id": 13,
+    "countryId": 1,
+    "name": "Нур-Султан"
+  },
+  {
+    "id": 14,
+    "countryId": 1,
+    "name": "Павлодар"
+  },
+  {
+    "id": 15,
+    "countryId": 1,
+    "name": "Петропавловск"
+  },
+  {
+    "id": 16,
+    "countryId": 1,
+    "name": "Рудный"
+  },
+  {
+    "id": 17,
+    "countryId": 1,
+    "name": "Семей"
+  },
+  {
+    "id": 18,
+    "countryId": 1,
+    "name": "Сырдарья"
+  },
+  {
+    "id": 19,
+    "countryId": 1,
+    "name": "Тараз"
+  },
+  {
+    "id": 20,
+    "countryId": 1,
+    "name": "Туркестан"
+  },
+  {
+    "id": 21,
+    "countryId": 1,
+    "name": "Уральск"
+  },
+  {
+    "id": 22,
+    "countryId": 1,
+    "name": "Усть-Каменогорск"
+  },
+  {
+    "id": 23,
+    "countryId": 1,
+    "name": "Шымкент"
+  }
+]
