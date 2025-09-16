@@ -1,6 +1,59 @@
 [
   {
-    "university": "Международная образовательная корпорация",
+    "university": "Атлантико-Средиземноморский технологический университет",
+    "reason": "city_inferred_from_contacts"
+  },
+  {
+    "university": "Межконтинентальный университет компании (UIE)",
+    "reason": "city_candidate_selected",
+    "candidates": [
+      "Кито",
+      "Гуаякиль",
+      "Куэнка",
+      "Санто-Доминго",
+      "Манта"
+    ]
+  },
+  {
+    "university": "Университет UNIE",
+    "reason": "city_inferred_from_contacts"
+  },
+  {
+    "university": "Университет Кастилии — Ла-Манча",
+    "reason": "city_inferred_from_contacts"
+  },
+  {
+    "university": "University of the Hesperides",
+    "reason": "resolver_missing_name_used_query"
+  },
+  {
+    "university": "University of the Hesperides",
+    "reason": "city_candidate_selected",
+    "candidates": [
+      "Мадрид",
+      "Барселона",
+      "Валенсия",
+      "Севилья",
+      "Гранада"
+    ]
+  },
+  {
+    "university": "University of the Middle Atlantic",
+    "reason": "resolver_missing_name_used_query"
+  },
+  {
+    "university": "University of the Middle Atlantic",
+    "reason": "city_candidate_selected",
+    "candidates": [
+      "Мадрид",
+      "Барселона",
+      "Валенсия",
+      "Севилья",
+      "Вальядолид"
+    ]
+  },
+  {
+    "university": "Странной университет Страны Басков",
     "reason": "city_inferred_from_contacts"
   }
 ]

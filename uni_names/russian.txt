@@ -1,0 +1,181 @@
+Lomonosov Moscow State University
+Bauman Moscow State Technical University
+National Research Nuclear University MEPhI
+Moscow Institute of Physics and Technology (National Research University)
+National Research University Higher School of Economics
+National University of Science and Technology MISIS
+Plekhanov Russian University of Economics
+Financial University under the Government of the Russian Federation
+Gubkin Russian State University of Oil and Gas (National Research University)
+Peoples' Friendship University of Russia (RUDN University)
+Moscow Aviation Institute (National Research University)
+Moscow Power Engineering Institute (National Research University)
+National Research University of Electronic Technology (MIET)
+Russian Technological University (MIREA)
+Moscow State University of Civil Engineering
+Moscow State Linguistic University
+Moscow State Pedagogical University
+Moscow City University
+Russian State University for the Humanities
+Russian University of Transport
+Moscow State University of Geodesy and Cartography (MIIGAiK)
+Moscow State University of Psychology and Education
+MGIMO University (Moscow State Institute of International Relations)
+Skolkovo Institute of Science and Technology (Skoltech)
+Saint Petersburg State University
+Peter the Great St. Petersburg Polytechnic University
+ITMO University
+Saint Petersburg State University of Economics
+Saint Petersburg Electrotechnical University “LETI”
+Saint Petersburg Mining University
+Saint Petersburg State University of Architecture and Civil Engineering
+Saint Petersburg State University of Aerospace Instrumentation
+Saint Petersburg State University of Industrial Technologies and Design
+Saint Petersburg State University of Civil Aviation
+Herzen State Pedagogical University of Russia
+Lesgaft National State University of Physical Education, Sport and Health
+Saint Petersburg State University of Telecommunications (Bonch-Bruevich)
+Immanuel Kant Baltic Federal University
+Northern (Arctic) Federal University named after M. V. Lomonosov
+Kazan (Volga Region) Federal University
+Siberian Federal University
+Southern Federal University
+Ural Federal University named after the first President of Russia B. N. Yeltsin
+Far Eastern Federal University
+North-Eastern Federal University named after M. K. Ammosov
+North-Caucasus Federal University
+Crimean Federal University named after V. I. Vernadsky
+Novosibirsk State University
+Novosibirsk State Technical University
+Siberian State University of Telecommunications and Information Sciences (SibSUTIS)
+Tomsk State University
+Tomsk Polytechnic University
+Tomsk State University of Control Systems and Radioelectronics
+Siberian State Medical University
+Altai State University
+Omsk State University
+Omsk State Technical University
+Omsk State Transport University
+Tyumen State University
+Tyumen Industrial University
+Tyumen State Medical University
+Ural State University of Economics
+Ural State Mining University
+Ural State Forest Engineering University
+Chelyabinsk State University
+South Ural State University
+Bashkir State University
+Ufa University of Science and Technology
+Ufa State Petroleum Technological University
+Udmurt State University
+Perm State University
+Perm National Research Polytechnic University
+Vyatka State University
+Lobachevsky State University of Nizhny Novgorod
+Nizhny Novgorod State Technical University
+Nizhny Novgorod State University of Architecture and Civil Engineering
+Nizhnevartovsk State University
+Samara University (Samara National Research University)
+Samara State Technical University
+Saratov State University
+Yuri Gagarin State Technical University of Saratov
+Volgograd State University
+Volgograd State Technical University
+Voronezh State University
+Voronezh State Technical University
+Tambov State University named after G. R. Derzhavin
+Tambov State Technical University
+Tula State University
+Tver State University
+Demidov Yaroslavl State University
+Vladimir State University named after A. G. and N. G. Stoletovs
+Ivanovo State University
+Ivanovo State Power Engineering University
+Ivanovo State University of Chemistry and Technology
+Kostroma State University
+Kaluga State University
+Belgorod National Research University (BelSU)
+Belgorod State Technological University named after V. G. Shukhov
+Belgorod University of Cooperation, Economics and Law
+Bryansk State University
+Bryansk State Technical University
+Smolensk State University
+Kalmyk State University
+Kuban State University
+Kuban State Technological University
+Adyghe State University
+Dagestan State University
+Chechen State University
+Grozny State Petroleum Technical University
+Kabardino-Balkarian State University
+Karachay-Cherkess State University
+Ingush State University
+North Ossetian State University named after K. L. Khetagurov
+Murmansk Arctic State University
+Petrozavodsk State University
+Yaroslav-the-Wise Novgorod State University
+Pskov State University
+Vologda State University
+Sevastopol State University
+Amur State University
+Pacific National University
+Sakhalin State University
+Kamchatka State Technical University
+Kamchatka State University named after Vitus Bering
+Kemerovo State University
+Kuzbass State Technical University named after T. F. Gorbachev
+Kemerovo State University of Culture
+Irkutsk State University
+Irkutsk National Research Technical University
+Buryat State University
+Transbaikal State University
+Yakutsk State Agricultural Academy (note: not “University” – omitted if you only want “University”-titled)
+Altai State Humanitarian-Pedagogical University (note: not “University” – omitted if strict)
+Northern State Medical University (Arkhangelsk)
+Astrakhan State University
+Astrakhan State Medical University
+Astrakhan State Technical University
+Altai State Medical University
+Belgorod State University
+Sholem Aleichem Amur State University
+Bratsk State University
+Bryansk State Agrarian University (note: not “University” in English name? kept if titled “University”)
+Cherepovets State University
+Chuvash State University
+Dubna University (University of Dubna)
+Kalmyk State University named after B. B. Gorodovikov
+Gorno-Altaisk State University
+Chechen State Pedagogical University (note: not “University” – omitted if strict)
+Kaliningrad State Technical University
+Kaluga State University named after K. E. Tsiolkovsky
+Kazan National Research Technological University
+Kazan National Research Technical University named after A. N. Tupolev (KAI)
+Kazan State Power Engineering University
+Kazan State University of Architecture and Engineering
+Kemerovo State University
+Khabarovsk State University of Economics and Law (Pacific State University incorporates? use Pacific National University above)
+Krasnoyarsk State Agrarian University (note: not “University” – “University” word present, so included)
+Michurinsk State Agrarian University (has “University”)
+Murmansk State Technical University
+Kabardino-Balkarian State Agrarian University (note: “University” word present)
+Lobachevsky University (UNN) – see full name above
+Nizhny Novgorod State Medical University (has “University”)
+Nizhny Novgorod State Linguistic University (Dobrolyubov)
+Orenburg State University
+Orel State University named after I. S. Turgenev
+Penza State University
+Perm State Medical University (note: “University”)
+Petrozavodsk State University
+Pskov State University
+Pyatigorsk State University (successor to PSLU)
+Rostov State University of Economics
+Don State Technical University (note: “University” present)
+Saratov State Law Academy (not “University” – omitted if strict)
+Sevastopol National Technical University (legacy; merged – prefer Sevastopol State University)
+Smolensk State Medical University
+Sochi State University
+Stavropol State Agrarian University
+Syktyvkar State University named after Pitirim Sorokin
+Tver State Medical University
+Ufa State Aviation Technical University (now part of Ufa University of Science and Technology – prefer merged name)
+Ulyanovsk State University

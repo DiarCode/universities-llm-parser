@@ -1,0 +1,189 @@
+Aichi University of Education
+Akita University
+Asahikawa Medical University
+Chiba University
+Ehime University
+Fukushima University
+Gifu University
+Gunma University
+Hamamatsu University School of Medicine
+Hirosaki University
+Hiroshima University
+Hitotsubashi University
+Hokkaido University
+Hokkaido University of Education
+Hyogo University of Teacher Education
+Ibaraki University
+Institute of Science Tokyo
+Iwate University
+Japan Advanced Institute of Science and Technology
+Joetsu University of Education
+Kagawa University
+Kagoshima University
+Kanazawa University
+Kitami Institute of Technology
+Kobe University
+Kochi University
+Kumamoto University
+Kyoto Institute of Technology
+Kyoto University
+Kyoto University of Education
+Kyushu Institute of Technology
+Kyushu University
+Mie University
+Miyagi University of Education
+Muroran Institute of Technology
+Nagaoka University of Technology
+Nagasaki University
+Nagoya Institute of Technology
+Nagoya University
+Nara Institute of Science and Technology
+Nara University of Education
+Nara Women's University
+Naruto University of Education
+National Graduate Institute for Policy Studies
+National Institute of Fitness and Sports in Kanoya
+Niigata University
+Obihiro University of Agriculture and Veterinary Medicine
+Ochanomizu University
+Oita University
+Okayama University
+Osaka Kyoiku University
+Osaka University
+Otaru University of Commerce
+Saga University
+Saitama University
+Shiga University
+Shiga University of Medical Science
+Shimane University
+Shinshu University
+Shizuoka University
+The Graduate University for Advanced Studies, SOKENDAI
+The University of Electro-Communications
+The University of Tokyo
+Tohoku University
+Tokushima University
+Tokyo Gakugei University
+Tokyo University of Agriculture and Technology
+Tokyo University of Foreign Studies
+Tokyo University of Marine Science and Technology
+Tokyo University of the Arts
+Tottori University
+Toyohashi University of Technology
+Tsukuba University of Technology
+University of Fukui
+University of Miyazaki
+University of Teacher Education Fukuoka
+University of the Ryukyus
+University of Toyama
+University of Tsukuba
+University of Yamanashi
+Utsunomiya University
+Wakayama University
+Yamagata University
+Yamaguchi University
+Yokohama National University
+Advanced Institute of Industrial Technology
+Aichi Prefectural University
+Aichi University of the Arts
+Akita International University
+Akita Prefectural University
+Akita University of Art
+Aomori Public University
+Aomori University of Health and Welfare
+Asahikawa City University
+Chiba Prefectural University of Health Sciences
+Chitose Institute of Science and Technology
+Eikei University of Hiroshima
+Fukui Prefectural University
+Fukuoka Prefectural University
+Fukuoka Women's University
+Fukushima Medical University
+Fukuyama City University
+Future University Hakodate
+Gifu College of Nursing
+Gifu Pharmaceutical University
+Gunma Prefectural College of Health Sciences
+Gunma Prefectural Women's University
+Hiroshima City University
+Ibaraki Prefectural University of Health Sciences
+Institute of Advanced Media Arts and Sciences
+Ishikawa Prefectural Nursing University
+Ishikawa Prefectural University
+Iwate Prefectural University
+Kagawa Prefectural University of Health Sciences
+Kanagawa University of Human Services
+Kanazawa College of Art
+Kawasaki City College of Nursing
+Kobe City College of Nursing
+Kobe City University of Foreign Studies
+Kochi University of Technology
+Komatsu University
+Kushiro Public University of Economics
+Kyoto City University of Arts
+Kyoto Prefectural University
+Kyoto Prefectural University of Medicine
+Kyushu Dental University
+Maebashi Institute of Technology
+Meio University
+Mie Prefectural College of Nursing
+Miyagi University
+Miyazaki Municipal University
+Miyazaki Prefectural Nursing University
+Nagano College of Nursing
+Nagano University
+Nagaoka Institute of Design
+Nagoya City University
+Nara Medical University
+Nara Prefectural University
+Nayoro City University
+Niigata College of Nursing
+Niimi University
+Oita University of Nursing and Health Sciences
+Okayama Prefectural University
+Okinawa Prefectural College of Nursing
+Okinawa Prefectural University of Arts
+Onomichi City University
+Osaka Metropolitan University
+Prefectural University of Hiroshima
+Prefectural University of Kumamoto
+Professional College of Arts and Tourism
+Saitama Prefectural University
+Sanjo City University
+Sanyo-Onoda City University
+Sapporo City University
+Sapporo Medical University
+Shimonoseki City University
+Shizuoka Graduate University of Public Health
+Shizuoka Professional University of Agriculture
+Shizuoka University of Art and Culture
+Shunan University
+Suwa University of Science
+Takasaki City University of Economics
+The Graduate School of Ehime Prefectural University of Health Sciences
+The University of Aizu
+The University of Fukuchiyama
+The University of Kitakyushu
+The University of Shiga Prefecture
+The University of Shimane
+Tohoku Professional University of Agriculture and Forestry
+Tokyo Metropolitan University
+Tottori University of Environmental Studies
+Toyama Prefectural University
+Tsuru University
+Tsuruga Nursing University
+University of Hyogo
+University of Kochi
+University of Nagano
+University of Nagasaki
+University of Niigata Prefecture
+Wakayama Medical University
+Yamagata Prefectural University of Health Sciences
+Yamagata Prefectural Yonezawa University of Nutrition Sciences
+Yamaguchi Prefectural University
+Yamanashi Prefectural University
+Yokohama City University
+Business Breakthrough University
+Cyber University
+Digital Hollywood University
+LEC Graduate School of Accounting

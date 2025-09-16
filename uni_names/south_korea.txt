@@ -1,0 +1,140 @@
+Ajou University
+Andong National University
+Anyang University
+Busan National University of Education
+Busan University of Foreign Studies
+Catholic Kwandong University
+Catholic University of Daegu
+Changwon National University
+Cheongju National University of Education
+Cheongju University
+Chodang University
+Chonnam National University
+Chosun University
+Chuncheon National University of Education
+Chung-Ang University
+Chungbuk National University
+Chungnam National University
+Daegu Gyeongbuk Institute of Science and Technology (DGIST)
+Daegu National University of Education
+Daegu University
+Daejeon University
+Dankook University
+Dong-A University
+Dong-Eui University
+Dongguk University
+Dongseo University
+Dongshin University
+Duksung Women’s University
+Ewha Womans University
+Far East University
+Gachon University
+Gangneung–Wonju National University
+Gimcheon University
+Gongju National University of Education
+Gwangju Catholic University
+Gwangju Institute of Science and Technology (GIST)
+Gwangju National University of Education
+Gwangju University
+Gwangju Women’s University
+Gyeongin National University of Education
+Gyeongju University
+Gyeongsang National University
+Hallym University
+Hanbat National University
+Handong Global University
+Hankuk University of Foreign Studies
+Hankyong National University
+Hannam University
+Hansei University
+Hanseo University
+Hanshin University
+Hansung University
+Hanyang University
+Honam University
+Hongik University
+Hoseo University
+Incheon National University
+Inha University
+Inje University
+Jeju International University
+Jeju National University
+Jeonbuk National University
+Jeonju National University of Education
+Jeonju University
+Jinju National University of Education
+Kangwon National University
+Kaya University
+Keimyung University
+Kongju National University
+Konkuk University
+Konyang University
+Kookmin University
+Korea Advanced Institute of Science and Technology (KAIST)
+Korea Aerospace University
+Korea Baptist Theological University and Seminary
+Korea Christian University
+Korea Maritime and Ocean University
+Korea National Open University
+Korea National Sport University
+Korea National University of Education
+Korea National University of Transportation
+Korea Nazarene University
+Korea University
+Korea University of Science and Technology (UST)
+Korea University of Technology and Education (KOREATECH)
+Kosin University
+Kumoh National Institute of Technology
+Kunsan National University
+Kwangwoon University
+Kyonggi University
+Kyung Hee University
+Kyungdong University
+Kyungil University
+Kyungnam University
+Kyungpook National University
+Kyungsung University
+Luther University
+Mokpo Catholic University
+Mokpo National Maritime University
+Mokpo National University
+Myongji University
+Namseoul University
+Pai Chai University
+Pohang University of Science and Technology (POSTECH)
+Pukyong National University
+Pusan National University
+Pusan Presbyterian University
+Sahmyook University
+Sehan University
+Sejong University
+Seokyeong University
+Seoul Christian University
+Seoul Jangsin University (Busan Presbyterian Univ. branch?)
+Seoul National University
+Seoul National University of Arts (Korea National University of Arts)
+Seoul National University of Education
+Seoul National University of Science and Technology
+Seoul Women’s University
+Seowon University
+Silla University
+Sogang University
+Sookmyung Women’s University
+Soongsil University
+Sun Moon University
+Sunchon National University
+Sungkyul University
+Sungkyunkwan University
+Sungshin Women’s University
+Suwon Catholic University
+The University of Suwon
+Tongmyong University
+U1 University
+Ulsan National Institute of Science and Technology (UNIST)
+University of Seoul
+University of Ulsan
+Wonkwang University
+Woosong University
+Yeungnam University
+Yong-In University
+Yonsei University

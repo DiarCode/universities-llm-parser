@@ -1,0 +1,78 @@
+Aix-Marseille University
+Avignon University
+University of Angers
+University of Artois
+University of Bordeaux
+Bordeaux Montaigne University
+University of Burgundy Europe
+University of Caen Normandy
+Claude Bernard University Lyon 1
+Clermont Auvergne University
+University of Corsica Pasquale Paoli
+CY Cergy Paris University
+University of Évry Val d'Essonne
+University of the French Antilles
+University of French Guiana
+University of French Polynesia
+Gustave Eiffel University
+Jean Monnet University (Saint-Étienne)
+Jean Moulin University Lyon 3
+La Rochelle University
+Le Havre Normandy University
+Le Mans University
+University of Lille
+University of Limoges
+University of the Littoral Opal Coast
+Lumière University Lyon 2
+University of Montpellier
+Nantes University
+University of New Caledonia
+University of Nîmes
+University of Orléans
+Paris Cité University
+Paris-East Créteil University
+Paris Nanterre University
+Paris-Saclay University
+Paris 1 Panthéon-Sorbonne University
+Paris-Panthéon-Assas University
+Paris 8 University Vincennes–Saint-Denis
+University of Pau and the Adour Region
+Paul-Valéry University of Montpellier
+University of Perpignan Via Domitia
+University of Picardy Jules Verne
+University of Poitiers
+Polytechnic University of Hauts-de-France
+University of Rennes
+Rennes 2 University
+University of Reims Champagne-Ardenne
+University of Reunion Island
+University of Rouen Normandy
+Université Savoie Mont Blanc
+Sorbonne University
+Sorbonne Nouvelle University Paris 3
+Sorbonne Paris North University
+Southern Brittany University
+University of Strasbourg
+University of Toulon
+University of Toulouse
+Toulouse Capitole University
+University of Toulouse-Jean Jaurès
+University of Tours
+University of Upper Alsace
+University of Versailles Saint-Quentin-en-Yvelines
+University of Western Brittany
+University of Mayotte
+Grenoble Alpes University
+Côte d’Azur University
+University of Lorraine
+PSL University (Paris Sciences & Lettres)
+University of Technology of Compiègne
+University of Technology of Troyes
+University of Technology of Belfort-Montbéliard
+University of Technology of Tarbes – Occitanie Pyrénées
+Catholic University of Lille
+Catholic University of Lyon
+Catholic University of the West (Angers)
+Catholic Institute of Paris
+Catholic Institute of Toulouse
+Catholic Institute of the Vendée (ICES)
