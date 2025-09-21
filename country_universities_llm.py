@@ -9,26 +9,15 @@ from typing import Any, Dict, List, Optional, Set, Tuple
 from dotenv import load_dotenv
 from tqdm.asyncio import tqdm
 
-from app_io.writers import (
-    write_country_city_json,
-    write_preflight_report,
-    write_universities_json,
-)
-from domain.dto import (
-    CityRow,
-    CountryRow,
-    CreateInstitutionBulkDto,
-    CreateInstitutionEnrollmentDocumentDto,
-    CreateInstitutionEnrollmentRequirementDto,
-    CreateInstitutionMajorDto,
-)
+from app_io.writers import (write_country_city_json, write_preflight_report,
+                            write_universities_json)
+from domain.dto import (CityRow, CountryRow, CreateInstitutionBulkDto,
+                        CreateInstitutionEnrollmentDocumentDto,
+                        CreateInstitutionEnrollmentRequirementDto,
+                        CreateInstitutionMajorDto)
 from providers.openai_llm_provider import OpenAILLMProvider
-from services.normalize import (
-    country_meta_from_code,
-    infer_financing,
-    infer_type,
-    resolve_country_code,
-)
+from services.normalize import (country_meta_from_code, infer_financing,
+                                infer_type, resolve_country_code)
 
 load_dotenv()
 
@@ -145,7 +134,7 @@ async def _build_one_university(
         website=website,
         email=resolved.get("email"),
         contactNumber=resolved.get("contactNumber"),
-        cityId=city_name or "Город не указан",           # string, may be placeholder
+        city=city_name or "Город не указан",           # string, may be placeholder
         address=resolved.get("city") or city_name or "Город не указан",
         hasDorm=False,
         enrollmentDocuments=[
@@ -194,8 +183,8 @@ async def main():
             try:
                 dto, resolved, notes = await _build_one_university(provider, country_name_resolved, name)
                 dtos.append(dto)
-                if dto.cityId:
-                    cities_set.add(dto.cityId)
+                if dto.city:
+                    cities_set.add(dto.city)
                 preflight.extend(notes)
             except Exception as e:
                 # Absolute last-resort guard: still emit minimal DTO
@@ -209,7 +198,7 @@ async def main():
                     website=None,
                     email=None,
                     contactNumber=None,
-                    cityId="Город не указан",
+                    city="Город не указан",
                     address="Город не указан",
                     hasDorm=False,
                     enrollmentDocuments=[],
@@ -217,7 +206,7 @@ async def main():
                     majors=[],
                 )
                 dtos.append(dto)
-                cities_set.add(dto.cityId)
+                cities_set.add(dto.city)
                 preflight.append({"university": name, "city": None,
                                  "reason": f"guard_minimal_dto:{type(e).__name__}"})
 

@@ -9,7 +9,7 @@
 		"website": "https://www.vutbr.cz/ru",
 		"email": "rektorat@vutbr.cz",
 		"contactNumber": "+420 541 142 111",
-		"cityId": "Брно",
+		"city": "Брно",
 		"address": "Брно",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -120,7 +120,7 @@
 		"website": "https://www.avu.cz/",
 		"email": "avu@avu.cz",
 		"contactNumber": "+420 224 311 111",
-		"cityId": "Прага",
+		"city": "Прага",
 		"address": "Прага",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -225,7 +225,7 @@
 		"website": "https://www.czu.cz/",
 		"email": "info@czu.cz",
 		"contactNumber": "+420 224 382 111",
-		"cityId": "Прага",
+		"city": "Прага",
 		"address": "Прага",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -343,7 +343,7 @@
 		"website": "https://www.amu.cz/",
 		"email": "info@amu.cz",
 		"contactNumber": "+420 224 311 111",
-		"cityId": "Прага",
+		"city": "Прага",
 		"address": "Прага",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -438,7 +438,7 @@
 		"website": "https://cuni.cz",
 		"email": "info@cuni.cz",
 		"contactNumber": "+420 224 491 111",
-		"cityId": "Прага",
+		"city": "Прага",
 		"address": "Прага",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -561,7 +561,7 @@
 		"website": "https://www.cvut.cz/",
 		"email": "info@cvut.cz",
 		"contactNumber": "+420 224 353 111",
-		"cityId": "Прага",
+		"city": "Прага",
 		"address": "Прага",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -685,7 +685,7 @@
 		"website": "https://www.jamu.cz/",
 		"email": "info@jamu.cz",
 		"contactNumber": "+420 541 424 111",
-		"cityId": "Брно",
+		"city": "Брно",
 		"address": "Брно",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -803,7 +803,7 @@
 		"website": "https://www.umprum.cz/",
 		"email": "info@umprum.cz",
 		"contactNumber": "+420 224 311 111",
-		"cityId": "Прага",
+		"city": "Прага",
 		"address": "Прага",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -934,7 +934,7 @@
 		"website": "https://www.muni.cz/ru",
 		"email": "info@muni.cz",
 		"contactNumber": "+420 549 49 1111",
-		"cityId": "Брно",
+		"city": "Брно",
 		"address": "Брно",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -1032,7 +1032,7 @@
 		"website": "https://www.upol.cz/ru/",
 		"email": "info@upol.cz",
 		"contactNumber": "+420 585 634 111",
-		"cityId": "Оломоуц",
+		"city": "Оломоуц",
 		"address": "Оломоуц",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -1138,7 +1138,7 @@
 		"website": "https://www.utb.cz/ru/",
 		"email": "info@utb.cz",
 		"contactNumber": "+420 576 032 011",
-		"cityId": "Злин",
+		"city": "Злин",
 		"address": "Злин",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -1232,7 +1232,7 @@
 		"website": "https://mendelu.cz",
 		"email": "info@mendelu.cz",
 		"contactNumber": "+420 545 132 111",
-		"cityId": "Брно",
+		"city": "Брно",
 		"address": "Брно",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -1350,7 +1350,7 @@
 		"website": "https://www.uhk.cz",
 		"email": "info@uhk.cz",
 		"contactNumber": "+420 495 067 111",
-		"cityId": "Градец-Кралове",
+		"city": "Градец-Кралове",
 		"address": "Градец-Кралове",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -1453,7 +1453,7 @@
 		"website": "https://www.tul.cz",
 		"email": "info@tul.cz",
 		"contactNumber": "+420 485 353 111",
-		"cityId": "Либерец",
+		"city": "Либерец",
 		"address": "Либерец",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -1572,7 +1572,7 @@
 		"website": "https://www.vscht.cz/",
 		"email": "info@vscht.cz",
 		"contactNumber": "+420 220 444 111",
-		"cityId": "Прага",
+		"city": "Прага",
 		"address": "Прага",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -1691,7 +1691,7 @@
 		"website": "https://www.ujep.cz/",
 		"email": "rektorat@ujep.cz",
 		"contactNumber": "+420 475 282 111",
-		"cityId": "Усти-над-Лабем",
+		"city": "Усти-над-Лабем",
 		"address": "Усти-над-Лабем",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -1794,7 +1794,7 @@
 		"website": "https://www.osu.cz/",
 		"email": "info@osu.cz",
 		"contactNumber": "+420 597 091 111",
-		"cityId": "Острава",
+		"city": "Острава",
 		"address": "Острава",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -1900,7 +1900,7 @@
 		"website": "https://www.upce.cz/ru",
 		"email": "info@upce.cz",
 		"contactNumber": "+420 466 036 111",
-		"cityId": "Пардубице",
+		"city": "Пардубице",
 		"address": "Пардубице",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -2006,7 +2006,7 @@
 		"website": "https://www.vfu.cz/ru/",
 		"email": "info@vfu.cz",
 		"contactNumber": "+420 541 562 111",
-		"cityId": "Брно",
+		"city": "Брно",
 		"address": "Брно",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -2094,7 +2094,7 @@
 		"website": "https://www.jcu.cz/ru",
 		"email": "info@jcu.cz",
 		"contactNumber": "+420 387 775 111",
-		"cityId": "Ческе-Будеёвице",
+		"city": "Ческе-Будеёвице",
 		"address": "Ческе-Будеёвице",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -2197,7 +2197,7 @@
 		"website": "https://www.zcu.cz/",
 		"email": "info@zcu.cz",
 		"contactNumber": "+420 377 638 111",
-		"cityId": "Пльзень",
+		"city": "Пльзень",
 		"address": "Пльзень",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -2303,7 +2303,7 @@
 		"website": "https://www.vse.cz/",
 		"email": "info@vse.cz",
 		"contactNumber": "+420 224 095 111",
-		"cityId": "Прага",
+		"city": "Прага",
 		"address": "Прага",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -2398,7 +2398,7 @@
 		"website": "https://www.vsb.cz/",
 		"email": "rektorat@vsb.cz",
 		"contactNumber": "+420 597 321 111",
-		"cityId": "Острава",
+		"city": "Острава",
 		"address": "Острава",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -2501,7 +2501,7 @@
 		"website": "https://www.slu.cz/",
 		"email": "info@slu.cz",
 		"contactNumber": "+420 553 225 111",
-		"cityId": "Опава",
+		"city": "Опава",
 		"address": "Опава",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -2619,7 +2619,7 @@
 		"website": "https://www.vospj.cz/",
 		"email": "posta@vospj.cz",
 		"contactNumber": "+420 567 311 111",
-		"cityId": "Йиглава",
+		"city": "Йиглава",
 		"address": "Йиглава",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -2696,7 +2696,7 @@
 		"website": "https://www.vstecb.cz/",
 		"email": "info@vstecb.cz",
 		"contactNumber": "+420 387 310 111",
-		"cityId": "Ческе-Будеёвице",
+		"city": "Ческе-Будеёвице",
 		"address": "Ческе-Будеёвице",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -2773,7 +2773,7 @@
 		"website": "https://www.unob.cz",
 		"email": "info@unob.cz",
 		"contactNumber": "+420 973 442 111",
-		"cityId": "Брно",
+		"city": "Брно",
 		"address": "Брно",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -2867,7 +2867,7 @@
 		"website": "https://www.arc.cz/",
 		"email": "info@arc.cz",
 		"contactNumber": "+420 222 311 111",
-		"cityId": "Прага",
+		"city": "Прага",
 		"address": "Прага",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -2950,7 +2950,7 @@
 		"website": "https://www.akcent.cz/",
 		"email": "info@akcent.cz",
 		"contactNumber": "+420 222 511 111",
-		"cityId": "Прага",
+		"city": "Прага",
 		"address": "Прага",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -3018,7 +3018,7 @@
 		"website": "https://www.ambis.cz/",
 		"email": "info@ambis.cz",
 		"contactNumber": "+420 224 310 111",
-		"cityId": "Прага",
+		"city": "Прага",
 		"address": "Прага",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -3110,7 +3110,7 @@
 		"website": "https://www.academy.cz/",
 		"email": "info@academy.cz",
 		"contactNumber": "+420 974 832 111",
-		"cityId": "Прага",
+		"city": "Прага",
 		"address": "Прага",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -3212,7 +3212,7 @@
 		"website": "https://www.aauni.edu",
 		"email": "info@aauni.edu",
 		"contactNumber": "+420 224 095 111",
-		"cityId": "Прага",
+		"city": "Прага",
 		"address": "Прага",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -3322,7 +3322,7 @@
 		"website": "https://www.archip.cz/",
 		"email": "info@archip.cz",
 		"contactNumber": "+420 222 311 111",
-		"cityId": "Прага",
+		"city": "Прага",
 		"address": "Прага",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -3406,7 +3406,7 @@
 		"website": "https://www.artdesign.cz",
 		"email": "info@artdesign.cz",
 		"contactNumber": "+420 222 333 444",
-		"cityId": "Прага",
+		"city": "Прага",
 		"address": "Прага",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -3488,7 +3488,7 @@
 		"website": "https://eru.cz",
 		"email": "info@eru.cz",
 		"contactNumber": "+420 123 456 789",
-		"cityId": "Прага",
+		"city": "Прага",
 		"address": "Прага",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -3585,7 +3585,7 @@
 		"website": "https://moravskykolleg.cz/",
 		"email": "info@moravskykolleg.cz",
 		"contactNumber": "+420 585 225 111",
-		"cityId": "Оломоуц",
+		"city": "Оломоуц",
 		"address": "Оломоуц",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -3659,7 +3659,7 @@
 		"website": "https://www.cevro.cz/",
 		"email": "info@cevro.cz",
 		"contactNumber": "+420 222 362 111",
-		"cityId": "Прага",
+		"city": "Прага",
 		"address": "Прага",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -3757,7 +3757,7 @@
 		"website": "https://www.famu.cz/cs/filmove-akademie-miroslava-ondriceka-v-piseke",
 		"email": null,
 		"contactNumber": null,
-		"cityId": "Писек",
+		"city": "Писек",
 		"address": "Писек",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -3854,7 +3854,7 @@
 		"website": "https://www.mup.cz/",
 		"email": "info@mup.cz",
 		"contactNumber": "+420 224 310 111",
-		"cityId": "Прага",
+		"city": "Прага",
 		"address": "Прага",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -3946,7 +3946,7 @@
 		"website": "https://newtonuniversity.cz",
 		"email": "info@newtonuniversity.cz",
 		"contactNumber": "+420 123 456 789",
-		"cityId": "Прага",
+		"city": "Прага",
 		"address": "Прага",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -4025,7 +4025,7 @@
 		"website": "https://www.pevnu.cz/",
 		"email": "info@pevnu.cz",
 		"contactNumber": "+420 234 766 111",
-		"cityId": "Прага",
+		"city": "Прага",
 		"address": "Прага",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -4111,7 +4111,7 @@
 		"website": "https://www.pups.cz",
 		"email": "info@pups.cz",
 		"contactNumber": "+420 222 123 456",
-		"cityId": "Прага",
+		"city": "Прага",
 		"address": "Прага",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -4190,7 +4190,7 @@
 		"website": "https://www.skoda-auto-university.com",
 		"email": "info@skoda-auto-university.com",
 		"contactNumber": "+420 326 811 111",
-		"cityId": "Млада-Болеслав",
+		"city": "Млада-Болеслав",
 		"address": "Млада-Болеслав",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -4258,7 +4258,7 @@
 		"website": "https://www.vseznojmo.cz",
 		"email": "info@vseznojmo.cz",
 		"contactNumber": "+420 515 222 111",
-		"cityId": "Зноймо",
+		"city": "Зноймо",
 		"address": "Зноймо",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -4335,7 +4335,7 @@
 		"website": "https://unicornuniversity.cz/",
 		"email": "info@unicornuniversity.cz",
 		"contactNumber": "+420 222 500 500",
-		"cityId": "Прага",
+		"city": "Прага",
 		"address": "Прага",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -4421,7 +4421,7 @@
 		"website": "https://www.ucp.cz/",
 		"email": "info@ucp.cz",
 		"contactNumber": "+420 224 310 111",
-		"cityId": "Прага",
+		"city": "Прага",
 		"address": "Прага",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -4507,7 +4507,7 @@
 		"website": "https://www.vukov.cz/",
 		"email": "info@vukov.cz",
 		"contactNumber": "+420 222 123 456",
-		"cityId": "Прага",
+		"city": "Прага",
 		"address": "Прага",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -4597,7 +4597,7 @@
 		"website": "https://www.vsmv.cz/",
 		"email": "info@vsmv.cz",
 		"contactNumber": "+420 222 580 111",
-		"cityId": "Прага",
+		"city": "Прага",
 		"address": "Прага",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -4694,7 +4694,7 @@
 		"website": "https://www.vsfs.cz",
 		"email": "info@vsfs.cz",
 		"contactNumber": "+420 224 095 111",
-		"cityId": "Прага",
+		"city": "Прага",
 		"address": "Прага",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -4777,7 +4777,7 @@
 		"website": "https://www.vsl.cz",
 		"email": "info@vsl.cz",
 		"contactNumber": "+420 222 123 456",
-		"cityId": "Прага",
+		"city": "Прага",
 		"address": "Прага",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -4852,7 +4852,7 @@
 		"website": "https://www.palestra.cz",
 		"email": "info@palestra.cz",
 		"contactNumber": "+420 222 333 444",
-		"cityId": "Прага",
+		"city": "Прага",
 		"address": "Прага",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -4936,7 +4936,7 @@
 		"website": "https://www.unyp.cz/ru/",
 		"email": "info@unyp.cz",
 		"contactNumber": "+420 224 095 111",
-		"cityId": "Прага",
+		"city": "Прага",
 		"address": "Прага",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -5028,7 +5028,7 @@
 		"website": "https://www.stingacademy.cz",
 		"email": "info@stingacademy.cz",
 		"contactNumber": "+420 123 456 789",
-		"cityId": "Прага",
+		"city": "Прага",
 		"address": "Прага",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -5099,7 +5099,7 @@
 		"website": "https://www.lf1.cuni.cz/",
 		"email": "info@lf1.cuni.cz",
 		"contactNumber": "+420 224 965 111",
-		"cityId": "Прага",
+		"city": "Прага",
 		"address": "Прага",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -5183,7 +5183,7 @@
 		"website": "https://www.vsthm.cz/",
 		"email": "info@vsthm.cz",
 		"contactNumber": "+420 541 424 111",
-		"cityId": "Брно",
+		"city": "Брно",
 		"address": "Брно",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -5254,7 +5254,7 @@
 		"website": "https://www.huspol.cz",
 		"email": "info@huspol.cz",
 		"contactNumber": "+420 123 456 789",
-		"cityId": "Прага",
+		"city": "Прага",
 		"address": "Прага",
 		"hasDorm": false,
 		"enrollmentDocuments": [

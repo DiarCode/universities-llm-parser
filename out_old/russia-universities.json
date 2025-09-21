@@ -9,7 +9,7 @@
 		"website": "https://www.fa.ru",
 		"email": "info@fa.ru",
 		"contactNumber": "+7 (495) 956-00-00",
-		"cityId": "Москва",
+		"city": "Москва",
 		"address": "Москва",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -121,7 +121,7 @@
 		"website": "https://www.hse.ru",
 		"email": "info@hse.ru",
 		"contactNumber": "+7 (495) 772-95-00",
-		"cityId": "Москва",
+		"city": "Москва",
 		"address": "Москва",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -228,7 +228,7 @@
 		"website": "https://www.misis.ru",
 		"email": "info@misis.ru",
 		"contactNumber": "+7 (495) 251-22-11",
-		"cityId": "Москва",
+		"city": "Москва",
 		"address": "Москва",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -348,7 +348,7 @@
 		"website": "https://www.rea.ru",
 		"email": "info@rea.ru",
 		"contactNumber": "+7 (495) 917-99-00",
-		"cityId": "Москва",
+		"city": "Москва",
 		"address": "Москва",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -484,7 +484,7 @@
 		"website": "https://mephi.ru",
 		"email": "info@mephi.ru",
 		"contactNumber": "+7 (495) 262-32-32",
-		"cityId": "Москва",
+		"city": "Москва",
 		"address": "Москва",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -607,7 +607,7 @@
 		"website": "https://mipt.ru",
 		"email": "info@mipt.ru",
 		"contactNumber": "+7 (495) 408-99-11",
-		"cityId": "Долгопрудный",
+		"city": "Долгопрудный",
 		"address": "Долгопрудный",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -727,7 +727,7 @@
 		"website": "https://www.msu.ru",
 		"email": "info@msu.ru",
 		"contactNumber": "+7 (495) 939-10-00",
-		"cityId": "Москва",
+		"city": "Москва",
 		"address": "Москва",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -847,7 +847,7 @@
 		"website": "https://www.bmstu.ru",
 		"email": "info@bmstu.ru",
 		"contactNumber": "+7 (495) 263-42-01",
-		"cityId": "Москва",
+		"city": "Москва",
 		"address": "Москва",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -967,7 +967,7 @@
 		"website": "https://www.gubkin.ru",
 		"email": "info@gubkin.ru",
 		"contactNumber": "+7 (495) 134-00-00",
-		"cityId": "Москва",
+		"city": "Москва",
 		"address": "Москва",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -1061,7 +1061,7 @@
 		"website": "https://www.mai.ru",
 		"email": "info@mai.ru",
 		"contactNumber": "+7 (495) 637-33-33",
-		"cityId": "Москва",
+		"city": "Москва",
 		"address": "Москва",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -1181,7 +1181,7 @@
 		"website": "https://www.rudn.ru",
 		"email": "info@rudn.ru",
 		"contactNumber": "+7 (495) 787-00-00",
-		"cityId": "Москва",
+		"city": "Москва",
 		"address": "Москва",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -1296,7 +1296,7 @@
 		"website": "https://miet.ru",
 		"email": "info@miet.ru",
 		"contactNumber": "+7 (499) 730-55-55",
-		"cityId": "Зеленоград",
+		"city": "Зеленоград",
 		"address": "Зеленоград",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -1419,7 +1419,7 @@
 		"website": "https://mirea.ru",
 		"email": "info@mirea.ru",
 		"contactNumber": "+7 (495) 225-05-55",
-		"cityId": "Москва",
+		"city": "Москва",
 		"address": "Москва",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -1539,7 +1539,7 @@
 		"website": "https://mgasu.ru",
 		"email": "info@mgasu.ru",
 		"contactNumber": "+7 (495) 637-44-44",
-		"cityId": "Москва",
+		"city": "Москва",
 		"address": "Москва",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -1640,7 +1640,7 @@
 		"website": "https://www.mephi.ru",
 		"email": "info@mephi.ru",
 		"contactNumber": "+7 (495) 362-44-11",
-		"cityId": "Москва",
+		"city": "Москва",
 		"address": "Москва",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -1768,7 +1768,7 @@
 		"website": "https://www.mglu.ru",
 		"email": "info@mglu.ru",
 		"contactNumber": "+7 (495) 695-00-00",
-		"cityId": "Москва",
+		"city": "Москва",
 		"address": "Москва",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -1891,7 +1891,7 @@
 		"website": "https://mgpu.ru",
 		"email": "info@mgpu.ru",
 		"contactNumber": "+7 (495) 637-00-00",
-		"cityId": "Москва",
+		"city": "Москва",
 		"address": "Москва",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -1977,7 +1977,7 @@
 		"website": "https://www.rutt.ru",
 		"email": "info@rutt.ru",
 		"contactNumber": "+7 (495) 264-00-00",
-		"cityId": "Москва",
+		"city": "Москва",
 		"address": "Москва",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -2079,7 +2079,7 @@
 		"website": "https://mpgu.su",
 		"email": "info@mpgu.su",
 		"contactNumber": "+7 (495) 697-30-00",
-		"cityId": "Москва",
+		"city": "Москва",
 		"address": "Москва",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -2177,7 +2177,7 @@
 		"website": "https://www.miigaik.ru",
 		"email": "info@miigaik.ru",
 		"contactNumber": "+7 (495) 434-44-44",
-		"cityId": "Москва",
+		"city": "Москва",
 		"address": "Москва",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -2271,7 +2271,7 @@
 		"website": "https://www.rsuh.ru",
 		"email": "info@rsuh.ru",
 		"contactNumber": "+7 (495) 695-00-00",
-		"cityId": "Москва",
+		"city": "Москва",
 		"address": "Москва",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -2428,7 +2428,7 @@
 		"website": "https://www.mgppu.ru",
 		"email": "info@mgppu.ru",
 		"contactNumber": "+7 (495) 680-00-00",
-		"cityId": "Москва",
+		"city": "Москва",
 		"address": "Москва",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -2526,7 +2526,7 @@
 		"website": "https://mgimo.ru",
 		"email": "info@mgimo.ru",
 		"contactNumber": "+7 (495) 234-30-00",
-		"cityId": "Москва",
+		"city": "Москва",
 		"address": "Москва",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -2649,7 +2649,7 @@
 		"website": "https://skoltech.ru",
 		"email": "info@skoltech.ru",
 		"contactNumber": "+7 (495) 280-15-00",
-		"cityId": "Москва",
+		"city": "Москва",
 		"address": "Москва",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -2757,7 +2757,7 @@
 		"website": "https://spbu.ru",
 		"email": "info@spbu.ru",
 		"contactNumber": "+7 (812) 328-91-11",
-		"cityId": "Санкт-Петербург",
+		"city": "Санкт-Петербург",
 		"address": "Санкт-Петербург",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -2872,7 +2872,7 @@
 		"website": "https://itmo.ru",
 		"email": "info@itmo.ru",
 		"contactNumber": "+7 (812) 297-97-00",
-		"cityId": "Санкт-Петербург",
+		"city": "Санкт-Петербург",
 		"address": "Санкт-Петербург",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -2992,7 +2992,7 @@
 		"website": "https://spbstu.ru",
 		"email": "info@spbstu.ru",
 		"contactNumber": "+7 (812) 297-91-11",
-		"cityId": "Санкт-Петербург",
+		"city": "Санкт-Петербург",
 		"address": "Санкт-Петербург",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -3125,7 +3125,7 @@
 		"website": "https://www.spbue.ru",
 		"email": "info@spbue.ru",
 		"contactNumber": "+7 (812) 324-00-00",
-		"cityId": "Санкт-Петербург",
+		"city": "Санкт-Петербург",
 		"address": "Санкт-Петербург",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -3252,7 +3252,7 @@
 		"website": "https://spmi.ru",
 		"email": "info@spmi.ru",
 		"contactNumber": "+7 (812) 328-00-00",
-		"cityId": "Санкт-Петербург",
+		"city": "Санкт-Петербург",
 		"address": "Санкт-Петербург",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -3355,7 +3355,7 @@
 		"website": "https://www.etu.ru",
 		"email": "info@etu.ru",
 		"contactNumber": "+7 (812) 297-91-11",
-		"cityId": "Санкт-Петербург",
+		"city": "Санкт-Петербург",
 		"address": "Санкт-Петербург",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -3476,7 +3476,7 @@
 		"website": "https://www.ssuap.ru",
 		"email": "info@ssuap.ru",
 		"contactNumber": "+7 (812) 234-00-00",
-		"cityId": "Санкт-Петербург",
+		"city": "Санкт-Петербург",
 		"address": "Санкт-Петербург",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -3561,7 +3561,7 @@
 		"website": "https://www.spbgasu.ru",
 		"email": "info@spbgasu.ru",
 		"contactNumber": "+7 (812) 331-00-00",
-		"cityId": "Санкт-Петербург",
+		"city": "Санкт-Петербург",
 		"address": "Санкт-Петербург",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -3664,7 +3664,7 @@
 		"website": "https://www.sutd.ru",
 		"email": "info@sutd.ru",
 		"contactNumber": "+7 (812) 321-00-00",
-		"cityId": "Санкт-Петербург",
+		"city": "Санкт-Петербург",
 		"address": "Санкт-Петербург",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -3747,7 +3747,7 @@
 		"website": "https://www.spbguaga.ru",
 		"email": "info@spbguaga.ru",
 		"contactNumber": "+7 (812) 234-56-78",
-		"cityId": "Санкт-Петербург",
+		"city": "Санкт-Петербург",
 		"address": "Санкт-Петербург",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -3858,7 +3858,7 @@
 		"website": "https://rgpu.ru",
 		"email": "info@rgpu.ru",
 		"contactNumber": "+7 (812) 324-00-00",
-		"cityId": "Санкт-Петербург",
+		"city": "Санкт-Петербург",
 		"address": "Санкт-Петербург",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -3973,7 +3973,7 @@
 		"website": "https://lesgaft.spb.ru",
 		"email": "info@lesgaft.spb.ru",
 		"contactNumber": "+7 (812) 324-00-00",
-		"cityId": "Санкт-Петербург",
+		"city": "Санкт-Петербург",
 		"address": "Санкт-Петербург",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -4071,7 +4071,7 @@
 		"website": "https://en.balticuniv.ru/",
 		"email": "info@balticuniv.ru",
 		"contactNumber": "+7 (4012) 59-00-00",
-		"cityId": "Калининград",
+		"city": "Калининград",
 		"address": "Калининград",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -4181,7 +4181,7 @@
 		"website": "https://www.sut.ru",
 		"email": "info@sut.ru",
 		"contactNumber": "+7 (812) 234-00-00",
-		"cityId": "Санкт-Петербург",
+		"city": "Санкт-Петербург",
 		"address": "Санкт-Петербург",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -4309,7 +4309,7 @@
 		"website": "https://www.narfu.ru",
 		"email": "info@narfu.ru",
 		"contactNumber": "+7 (8182) 21-00-00",
-		"cityId": "Архангельск",
+		"city": "Архангельск",
 		"address": "Архангельск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -4408,7 +4408,7 @@
 		"website": "https://www.sfu-kras.ru",
 		"email": "info@sfu-kras.ru",
 		"contactNumber": "+7 (391) 206-00-00",
-		"cityId": "Красноярск",
+		"city": "Красноярск",
 		"address": "Красноярск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -4519,7 +4519,7 @@
 		"website": "https://kpfu.ru",
 		"email": "info@kpfu.ru",
 		"contactNumber": "+7 (843) 233-00-00",
-		"cityId": "Казань",
+		"city": "Казань",
 		"address": "Казань",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -4622,7 +4622,7 @@
 		"website": "https://sfedu.ru",
 		"email": "info@sfedu.ru",
 		"contactNumber": "+7 (863) 222-22-22",
-		"cityId": "Ростов-на-Дону",
+		"city": "Ростов-на-Дону",
 		"address": "Ростов-на-Дону",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -4740,7 +4740,7 @@
 		"website": "https://urfu.ru",
 		"email": "info@urfu.ru",
 		"contactNumber": "+7 (343) 375-40-40",
-		"cityId": "Екатеринбург",
+		"city": "Екатеринбург",
 		"address": "Екатеринбург",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -4855,7 +4855,7 @@
 		"website": "https://www.dvfu.ru",
 		"email": "info@dvfu.ru",
 		"contactNumber": "+7 (423) 265-55-55",
-		"cityId": "Владивосток",
+		"city": "Владивосток",
 		"address": "Владивосток",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -4967,7 +4967,7 @@
 		"website": "https://www.s-vfu.ru",
 		"email": "info@s-vfu.ru",
 		"contactNumber": "+7 (4112) 49-00-00",
-		"cityId": "Якутск",
+		"city": "Якутск",
 		"address": "Якутск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -5066,7 +5066,7 @@
 		"website": "https://www.ncfu.ru",
 		"email": "info@ncfu.ru",
 		"contactNumber": "+7 (8652) 26-00-00",
-		"cityId": "Ставрополь",
+		"city": "Ставрополь",
 		"address": "Ставрополь",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -5181,7 +5181,7 @@
 		"website": "https://www.nsu.ru",
 		"email": "info@nsu.ru",
 		"contactNumber": "+7 (383) 330-30-00",
-		"cityId": "Новосибирск",
+		"city": "Новосибирск",
 		"address": "Новосибирск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -5296,7 +5296,7 @@
 		"website": "https://nstu.ru",
 		"email": "info@nstu.ru",
 		"contactNumber": "+7 (383) 346-00-00",
-		"cityId": "Новосибирск",
+		"city": "Новосибирск",
 		"address": "Новосибирск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -5424,7 +5424,7 @@
 		"website": "https://www.cfu.ru",
 		"email": "info@cfu.ru",
 		"contactNumber": "+7 (3652) 54-00-00",
-		"cityId": "Симферополь",
+		"city": "Симферополь",
 		"address": "Симферополь",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -5544,7 +5544,7 @@
 		"website": "https://www.sibsutis.ru",
 		"email": "info@sibsutis.ru",
 		"contactNumber": "+7 (383) 363-00-00",
-		"cityId": "Новосибирск",
+		"city": "Новосибирск",
 		"address": "Новосибирск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -5672,7 +5672,7 @@
 		"website": "https://www.tsu.ru",
 		"email": "info@tsu.ru",
 		"contactNumber": "+7 (3822) 52-30-00",
-		"cityId": "Томск",
+		"city": "Томск",
 		"address": "Томск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -5795,7 +5795,7 @@
 		"website": "https://tpu.ru",
 		"email": "info@tpu.ru",
 		"contactNumber": "+7 (3822) 52-30-00",
-		"cityId": "Томск",
+		"city": "Томск",
 		"address": "Томск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -5923,7 +5923,7 @@
 		"website": "https://www.tusur.ru",
 		"email": "info@tusur.ru",
 		"contactNumber": "+7 (3822) 70-00-00",
-		"cityId": "Томск",
+		"city": "Томск",
 		"address": "Томск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -6008,7 +6008,7 @@
 		"website": "https://www.asu.ru",
 		"email": "info@asu.ru",
 		"contactNumber": "+7 (3852) 20-00-00",
-		"cityId": "Барнаул",
+		"city": "Барнаул",
 		"address": "Барнаул",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -6142,7 +6142,7 @@
 		"website": "https://omsu.ru",
 		"email": "info@omsu.ru",
 		"contactNumber": "+7 (3812) 24-00-00",
-		"cityId": "Омск",
+		"city": "Омск",
 		"address": "Омск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -6241,7 +6241,7 @@
 		"website": "https://omgups.ru",
 		"email": "info@omgups.ru",
 		"contactNumber": "+7 (3812) 29-00-00",
-		"cityId": "Омск",
+		"city": "Омск",
 		"address": "Омск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -6351,7 +6351,7 @@
 		"website": "https://www.utmn.ru",
 		"email": "info@utmn.ru",
 		"contactNumber": "+7 (3452) 52-00-00",
-		"cityId": "Тюмень",
+		"city": "Тюмень",
 		"address": "Тюмень",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -6472,7 +6472,7 @@
 		"website": "https://omgtu.ru",
 		"email": "info@omgtu.ru",
 		"contactNumber": "+7 (3812) 24-00-00",
-		"cityId": "Омск",
+		"city": "Омск",
 		"address": "Омск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -6595,7 +6595,7 @@
 		"website": "https://sgmu.ru",
 		"email": "info@sgmu.ru",
 		"contactNumber": "+7 (391) 221-00-00",
-		"cityId": "Красноярск",
+		"city": "Красноярск",
 		"address": "Красноярск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -6727,7 +6727,7 @@
 		"website": "https://www.tgmu.ru",
 		"email": "info@tgmu.ru",
 		"contactNumber": "+7 (3452) 49-00-00",
-		"cityId": "Тюмень",
+		"city": "Тюмень",
 		"address": "Тюмень",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -6850,7 +6850,7 @@
 		"website": "https://tiu.ru",
 		"email": "info@tiu.ru",
 		"contactNumber": "+7 (3452) 49-00-00",
-		"cityId": "Тюмень",
+		"city": "Тюмень",
 		"address": "Тюмень",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -6948,7 +6948,7 @@
 		"website": "https://www.ugltu.ru",
 		"email": "info@ugltu.ru",
 		"contactNumber": "+7 (343) 375-00-00",
-		"cityId": "Екатеринбург",
+		"city": "Екатеринбург",
 		"address": "Екатеринбург",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -7062,7 +7062,7 @@
 		"website": "https://usma.ru",
 		"email": "info@usma.ru",
 		"contactNumber": "+7 (343) 375-00-00",
-		"cityId": "Екатеринбург",
+		"city": "Екатеринбург",
 		"address": "Екатеринбург",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -7177,7 +7177,7 @@
 		"website": "https://www.susu.ru",
 		"email": "info@susu.ru",
 		"contactNumber": "+7 (351) 267-00-00",
-		"cityId": "Челябинск",
+		"city": "Челябинск",
 		"address": "Челябинск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -7300,7 +7300,7 @@
 		"website": "https://usue.ru",
 		"email": "info@usue.ru",
 		"contactNumber": "+7 (343) 375-00-00",
-		"cityId": "Екатеринбург",
+		"city": "Екатеринбург",
 		"address": "Екатеринбург",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -7433,7 +7433,7 @@
 		"website": "https://www.susu.ru",
 		"email": "info@susu.ru",
 		"contactNumber": "+7 (351) 267-00-00",
-		"cityId": "Челябинск",
+		"city": "Челябинск",
 		"address": "Челябинск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -7548,7 +7548,7 @@
 		"website": "https://www.bashedu.ru",
 		"email": "info@bashedu.ru",
 		"contactNumber": "+7 (347) 272-00-00",
-		"cityId": "Уфа",
+		"city": "Уфа",
 		"address": "Уфа",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -7661,7 +7661,7 @@
 		"website": "https://www.ugntu.ru",
 		"email": "info@ugntu.ru",
 		"contactNumber": "+7 (347) 246-00-00",
-		"cityId": "Уфа",
+		"city": "Уфа",
 		"address": "Уфа",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -7759,7 +7759,7 @@
 		"website": "https://www.ugntu.ru",
 		"email": "info@ugntu.ru",
 		"contactNumber": "+7 (347) 246-00-00",
-		"cityId": "Уфа",
+		"city": "Уфа",
 		"address": "Уфа",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -7857,7 +7857,7 @@
 		"website": "https://www.psu.ru",
 		"email": "info@psu.ru",
 		"contactNumber": "+7 (342) 239-70-00",
-		"cityId": "Пермь",
+		"city": "Пермь",
 		"address": "Пермь",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -7975,7 +7975,7 @@
 		"website": "https://udsu.ru",
 		"email": "info@udsu.ru",
 		"contactNumber": "+7 (3412) 21-00-00",
-		"cityId": "Ижевск",
+		"city": "Ижевск",
 		"address": "Ижевск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -8098,7 +8098,7 @@
 		"website": "https://vyatsu.ru",
 		"email": "info@vyatsu.ru",
 		"contactNumber": "+7 (8332) 63-00-00",
-		"cityId": "Киров",
+		"city": "Киров",
 		"address": "Киров",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -8223,7 +8223,7 @@
 		"website": "https://pstu.ru",
 		"email": "info@pstu.ru",
 		"contactNumber": "+7 (342) 239-00-00",
-		"cityId": "Пермь",
+		"city": "Пермь",
 		"address": "Пермь",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -8369,7 +8369,7 @@
 		"website": "https://www.unn.ru",
 		"email": "info@unn.ru",
 		"contactNumber": "+7 (831) 434-30-00",
-		"cityId": "Нижний Новгород",
+		"city": "Нижний Новгород",
 		"address": "Нижний Новгород",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -8489,7 +8489,7 @@
 		"website": "https://www.unn.ru",
 		"email": "info@unn.ru",
 		"contactNumber": "+7 (831) 462-91-11",
-		"cityId": "Нижний Новгород",
+		"city": "Нижний Новгород",
 		"address": "Нижний Новгород",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -8605,7 +8605,7 @@
 		"website": "https://nvsu.ru",
 		"email": "info@nvsu.ru",
 		"contactNumber": "+7 (3466) 42-00-00",
-		"cityId": "Нижневартовск",
+		"city": "Нижневартовск",
 		"address": "Нижневартовск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -8728,7 +8728,7 @@
 		"website": "https://ngasu.ru",
 		"email": "info@ngasu.ru",
 		"contactNumber": "+7 (831) 434-00-00",
-		"cityId": "Нижний Новгород",
+		"city": "Нижний Новгород",
 		"address": "Нижний Новгород",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -8843,7 +8843,7 @@
 		"website": "https://www.ssau.ru",
 		"email": "info@ssau.ru",
 		"contactNumber": "+7 (846) 333-99-99",
-		"cityId": "Самара",
+		"city": "Самара",
 		"address": "Самара",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -8942,7 +8942,7 @@
 		"website": "https://www.sstu.ru",
 		"email": "info@sstu.ru",
 		"contactNumber": "+7 (846) 333-33-33",
-		"cityId": "Самара",
+		"city": "Самара",
 		"address": "Самара",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -9070,7 +9070,7 @@
 		"website": "https://sgtu.ru",
 		"email": "info@sgtu.ru",
 		"contactNumber": "+7 (8452) 26-00-00",
-		"cityId": "Саратов",
+		"city": "Саратов",
 		"address": "Саратов",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -9198,7 +9198,7 @@
 		"website": "https://www.sgu.ru",
 		"email": "info@sgu.ru",
 		"contactNumber": "+7 (8452) 51-00-00",
-		"cityId": "Саратов",
+		"city": "Саратов",
 		"address": "Саратов",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -9337,7 +9337,7 @@
 		"website": "https://vstu.ru",
 		"email": "info@vstu.ru",
 		"contactNumber": "+7 (8442) 44-00-00",
-		"cityId": "Волгоград",
+		"city": "Волгоград",
 		"address": "Волгоград",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -9439,7 +9439,7 @@
 		"website": "https://volsu.ru",
 		"email": "info@volsu.ru",
 		"contactNumber": "+7 (8442) 34-00-00",
-		"cityId": "Волгоград",
+		"city": "Волгоград",
 		"address": "Волгоград",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -9572,7 +9572,7 @@
 		"website": "https://www.vsu.ru",
 		"email": "info@vsu.ru",
 		"contactNumber": "+7 (473) 220-00-00",
-		"cityId": "Воронеж",
+		"city": "Воронеж",
 		"address": "Воронеж",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -9687,7 +9687,7 @@
 		"website": "https://www.vstu.ru",
 		"email": "info@vstu.ru",
 		"contactNumber": "+7 (473) 220-00-00",
-		"cityId": "Воронеж",
+		"city": "Воронеж",
 		"address": "Воронеж",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -9815,7 +9815,7 @@
 		"website": "https://www.tsu.tambov.ru",
 		"email": "info@tsu.tambov.ru",
 		"contactNumber": "+7 (4752) 41-00-00",
-		"cityId": "Тамбов",
+		"city": "Тамбов",
 		"address": "Тамбов",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -9944,7 +9944,7 @@
 		"website": "https://www.tversu.ru",
 		"email": "info@tversu.ru",
 		"contactNumber": "+7 (4822) 32-00-00",
-		"cityId": "Тверь",
+		"city": "Тверь",
 		"address": "Тверь",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -10068,7 +10068,7 @@
 		"website": "https://www.tsu.tula.ru",
 		"email": "info@tsu.tula.ru",
 		"contactNumber": "+7 (4872) 32-00-00",
-		"cityId": "Тула",
+		"city": "Тула",
 		"address": "Тула",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -10222,7 +10222,7 @@
 		"website": "https://tstu.tambov.ru",
 		"email": "info@tstu.tambov.ru",
 		"contactNumber": "+7 (4752) 42-00-00",
-		"cityId": "Тамбов",
+		"city": "Тамбов",
 		"address": "Тамбов",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -10335,7 +10335,7 @@
 		"website": "https://www.uniyar.ac.ru",
 		"email": "info@uniyar.ac.ru",
 		"contactNumber": "+7 (4852) 72-00-00",
-		"cityId": "Ярославль",
+		"city": "Ярославль",
 		"address": "Ярославль",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -10457,7 +10457,7 @@
 		"website": "https://www.ispu.ru",
 		"email": "info@ispu.ru",
 		"contactNumber": "+7 (4932) 33-00-00",
-		"cityId": "Иваново",
+		"city": "Иваново",
 		"address": "Иваново",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -10567,7 +10567,7 @@
 		"website": "https://vlsu.ru",
 		"email": "info@vlsu.ru",
 		"contactNumber": "+7 (4922) 32-00-00",
-		"cityId": "Владимир",
+		"city": "Владимир",
 		"address": "Владимир",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -10704,7 +10704,7 @@
 		"website": "https://ivanovo.ac.ru",
 		"email": "info@ivanovo.ac.ru",
 		"contactNumber": "+7 (4932) 31-00-00",
-		"cityId": "Иваново",
+		"city": "Иваново",
 		"address": "Иваново",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -10817,7 +10817,7 @@
 		"website": "https://www.igst.ru",
 		"email": "info@igst.ru",
 		"contactNumber": "+7 (4932) 31-00-00",
-		"cityId": "Иваново",
+		"city": "Иваново",
 		"address": "Иваново",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -10920,7 +10920,7 @@
 		"website": "https://www.kaluga-gov.ru/university/",
 		"email": "info@ksu.edu.ru",
 		"contactNumber": "+7 (4842) 77-00-00",
-		"cityId": "Калуга",
+		"city": "Калуга",
 		"address": "Калуга",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -11040,7 +11040,7 @@
 		"website": "https://www.bsu.edu.ru",
 		"email": "info@bsu.edu.ru",
 		"contactNumber": "+7 (4722) 32-00-00",
-		"cityId": "Белгород",
+		"city": "Белгород",
 		"address": "Белгород",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -11155,7 +11155,7 @@
 		"website": "https://www.kostroma.ru/",
 		"email": "info@kostroma.ru",
 		"contactNumber": "+7 (4942) 32-00-00",
-		"cityId": "Кострома",
+		"city": "Кострома",
 		"address": "Кострома",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -11265,7 +11265,7 @@
 		"website": "https://www.bukep.ru",
 		"email": "info@bukep.ru",
 		"contactNumber": "+7 (4722) 32-00-00",
-		"cityId": "Белгород",
+		"city": "Белгород",
 		"address": "Белгород",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -11363,7 +11363,7 @@
 		"website": "https://bstu.ru",
 		"email": "info@bstu.ru",
 		"contactNumber": "+7 (4832) 77-00-00",
-		"cityId": "Брянск",
+		"city": "Брянск",
 		"address": "Брянск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -11467,7 +11467,7 @@
 		"website": "https://bstu.edu.ru",
 		"email": "info@bstu.edu.ru",
 		"contactNumber": "+7 (4722) 32-00-00",
-		"cityId": "Белгород",
+		"city": "Белгород",
 		"address": "Белгород",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -11587,7 +11587,7 @@
 		"website": "https://bsu.edu.ru",
 		"email": "info@bsu.edu.ru",
 		"contactNumber": "+7 (4832) 77-00-00",
-		"cityId": "Брянск",
+		"city": "Брянск",
 		"address": "Брянск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -11702,7 +11702,7 @@
 		"website": "https://www.kalmgu.ru",
 		"email": "info@kalmgu.ru",
 		"contactNumber": "+7 (84722) 4-22-22",
-		"cityId": "Элиста",
+		"city": "Элиста",
 		"address": "Элиста",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -11803,7 +11803,7 @@
 		"website": "https://kubsu.ru",
 		"email": "info@kubsu.ru",
 		"contactNumber": "+7 (861) 268-00-00",
-		"cityId": "Краснодар",
+		"city": "Краснодар",
 		"address": "Краснодар",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -11918,7 +11918,7 @@
 		"website": "https://smolgu.ru",
 		"email": "info@smolgu.ru",
 		"contactNumber": "+7 (4812) 34-00-00",
-		"cityId": "Смоленск",
+		"city": "Смоленск",
 		"address": "Смоленск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -12064,7 +12064,7 @@
 		"website": "https://kubstu.ru",
 		"email": "info@kubstu.ru",
 		"contactNumber": "+7 (861) 268-00-00",
-		"cityId": "Краснодар",
+		"city": "Краснодар",
 		"address": "Краснодар",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -12182,7 +12182,7 @@
 		"website": "https://www.adygnet.ru",
 		"email": "info@adygnet.ru",
 		"contactNumber": "+7 (8772) 55-00-00",
-		"cityId": "Майкоп",
+		"city": "Майкоп",
 		"address": "Майкоп",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -12331,7 +12331,7 @@
 		"website": "http://www.chgmu.ru",
 		"email": "info@chgmu.ru",
 		"contactNumber": "+7 (8712) 22-22-22",
-		"cityId": "Грозный",
+		"city": "Грозный",
 		"address": "Грозный",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -12465,7 +12465,7 @@
 		"website": "https://dgu.ru",
 		"email": "info@dgu.ru",
 		"contactNumber": "+7 (8722) 41-00-00",
-		"cityId": "Махачкала",
+		"city": "Махачкала",
 		"address": "Махачкала",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -12602,7 +12602,7 @@
 		"website": "https://www.gpntu.ru",
 		"email": "info@gpntu.ru",
 		"contactNumber": "+7 (8712) 22-00-00",
-		"cityId": "Грозный",
+		"city": "Грозный",
 		"address": "Грозный",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -12715,7 +12715,7 @@
 		"website": "https://www.kchgu.ru",
 		"email": "info@kchgu.ru",
 		"contactNumber": "+7 (8782) 22-22-22",
-		"cityId": "Черкесск",
+		"city": "Черкесск",
 		"address": "Черкесск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -12822,7 +12822,7 @@
 		"website": "https://kbgu.ru",
 		"email": "info@kbgu.ru",
 		"contactNumber": "+7 (8662) 44-00-00",
-		"cityId": "Нальчик",
+		"city": "Нальчик",
 		"address": "Нальчик",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -12941,7 +12941,7 @@
 		"website": "https://ingu.ru",
 		"email": "info@ingu.ru",
 		"contactNumber": "+7 (8734) 22-00-00",
-		"cityId": "Магас",
+		"city": "Магас",
 		"address": "Магас",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -13053,7 +13053,7 @@
 		"website": "https://sogus.ru",
 		"email": "info@sogus.ru",
 		"contactNumber": "+7 (8672) 55-00-00",
-		"cityId": "Владикавказ",
+		"city": "Владикавказ",
 		"address": "Владикавказ",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -13168,7 +13168,7 @@
 		"website": "https://www.petrsu.ru",
 		"email": "info@petrsu.ru",
 		"contactNumber": "+7 (8142) 79-40-00",
-		"cityId": "Петрозаводск",
+		"city": "Петрозаводск",
 		"address": "Петрозаводск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -13263,7 +13263,7 @@
 		"website": "https://novsu.ru",
 		"email": "info@novsu.ru",
 		"contactNumber": "+7 (8162) 77-00-00",
-		"cityId": "Великий Новгород",
+		"city": "Великий Новгород",
 		"address": "Великий Новгород",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -13383,7 +13383,7 @@
 		"website": "https://www.vologda-academy.ru",
 		"email": "info@vologda-academy.ru",
 		"contactNumber": "+7 (8172) 72-00-00",
-		"cityId": "Вологда",
+		"city": "Вологда",
 		"address": "Вологда",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -13478,7 +13478,7 @@
 		"website": "https://www.marsu.ru",
 		"email": "info@marsu.ru",
 		"contactNumber": "+7 (8152) 49-00-00",
-		"cityId": "Мурманск",
+		"city": "Мурманск",
 		"address": "Мурманск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -13615,7 +13615,7 @@
 		"website": "https://www.sevsu.ru",
 		"email": "info@sevsu.ru",
 		"contactNumber": "+7 (8692) 54-00-00",
-		"cityId": "Севастополь",
+		"city": "Севастополь",
 		"address": "Севастополь",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -13714,7 +13714,7 @@
 		"website": "https://pskgu.ru",
 		"email": "info@pskgu.ru",
 		"contactNumber": "+7 (8112) 79-00-00",
-		"cityId": "Псков",
+		"city": "Псков",
 		"address": "Псков",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -13858,7 +13858,7 @@
 		"website": "https://amursu.ru",
 		"email": "info@amursu.ru",
 		"contactNumber": "+7 (4162) 26-00-00",
-		"cityId": "Благовещенск",
+		"city": "Благовещенск",
 		"address": "Благовещенск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -13983,7 +13983,7 @@
 		"website": "https://sakhgu.ru",
 		"email": "info@sakhgu.ru",
 		"contactNumber": "+7 (4242) 42-00-00",
-		"cityId": "Южно-Сахалинск",
+		"city": "Южно-Сахалинск",
 		"address": "Южно-Сахалинск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -14120,7 +14120,7 @@
 		"website": "https://www.tpu.ru",
 		"email": "info@tpu.ru",
 		"contactNumber": "+7 (4212) 31-00-00",
-		"cityId": "Хабаровск",
+		"city": "Хабаровск",
 		"address": "Хабаровск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -14235,7 +14235,7 @@
 		"website": "https://kamchatgtu.ru",
 		"email": "info@kamchatgtu.ru",
 		"contactNumber": "+7 (4152) 42-20-20",
-		"cityId": "Петропавловск-Камчатский",
+		"city": "Петропавловск-Камчатский",
 		"address": "Петропавловск-Камчатский",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -14337,7 +14337,7 @@
 		"website": "https://kamchatka.su",
 		"email": "info@kamchatka.su",
 		"contactNumber": "+7 (4152) 49-00-00",
-		"cityId": "Петропавловск-Камчатский",
+		"city": "Петропавловск-Камчатский",
 		"address": "Петропавловск-Камчатский",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -14447,7 +14447,7 @@
 		"website": "https://kemgik.ru",
 		"email": "info@kemgik.ru",
 		"contactNumber": "+7 (3842) 58-20-20",
-		"cityId": "Кемерово",
+		"city": "Кемерово",
 		"address": "Кемерово",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -14571,7 +14571,7 @@
 		"website": "https://kuzstu.ru",
 		"email": "info@kuzstu.ru",
 		"contactNumber": "+7 (3842) 58-00-00",
-		"cityId": "Кемерово",
+		"city": "Кемерово",
 		"address": "Кемерово",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -14669,7 +14669,7 @@
 		"website": "https://www.isu.ru",
 		"email": "info@isu.ru",
 		"contactNumber": "+7 (3952) 200-000",
-		"cityId": "Иркутск",
+		"city": "Иркутск",
 		"address": "Иркутск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -14806,7 +14806,7 @@
 		"website": "https://www.kemsu.ru",
 		"email": "info@kemsu.ru",
 		"contactNumber": "+7 (3842) 58-00-00",
-		"cityId": "Кемерово",
+		"city": "Кемерово",
 		"address": "Кемерово",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -14949,7 +14949,7 @@
 		"website": "https://www.istu.edu/",
 		"email": "info@istu.edu",
 		"contactNumber": "+7 (3952) 49-00-00",
-		"cityId": "Иркутск",
+		"city": "Иркутск",
 		"address": "Иркутск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -15064,7 +15064,7 @@
 		"website": "https://www.bsu.ru",
 		"email": "info@bsu.ru",
 		"contactNumber": "+7 (3012) 20-40-00",
-		"cityId": "Улан-Удэ",
+		"city": "Улан-Удэ",
 		"address": "Улан-Удэ",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -15203,7 +15203,7 @@
 		"website": "https://yagsxa.ru",
 		"email": "info@yagsxa.ru",
 		"contactNumber": "+7 (4112) 49-20-20",
-		"cityId": "Якутск",
+		"city": "Якутск",
 		"address": "Якутск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -15306,7 +15306,7 @@
 		"website": "https://www.zabgu.ru",
 		"email": "info@zabgu.ru",
 		"contactNumber": "+7 (3022) 20-00-00",
-		"cityId": "Чита",
+		"city": "Чита",
 		"address": "Чита",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -15463,7 +15463,7 @@
 		"website": "https://aggpu.ru",
 		"email": "info@aggpu.ru",
 		"contactNumber": "+7 (3852) 29-00-00",
-		"cityId": "Барнаул",
+		"city": "Барнаул",
 		"address": "Барнаул",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -15572,7 +15572,7 @@
 		"website": "https://agmu.net",
 		"email": "info@agmu.net",
 		"contactNumber": "+7 (8512) 49-00-00",
-		"cityId": "Астрахань",
+		"city": "Астрахань",
 		"address": "Астрахань",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -15691,7 +15691,7 @@
 		"website": "https://www.sgmu.ru",
 		"email": "info@sgmu.ru",
 		"contactNumber": "+7 (8182) 21-00-00",
-		"cityId": "Архангельск",
+		"city": "Архангельск",
 		"address": "Архангельск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -15823,7 +15823,7 @@
 		"website": "https://www.astu.org",
 		"email": "info@astu.org",
 		"contactNumber": "+7 (8512) 41-00-00",
-		"cityId": "Астрахань",
+		"city": "Астрахань",
 		"address": "Астрахань",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -15930,7 +15930,7 @@
 		"website": "https://www.asu.ru",
 		"email": "info@asu.ru",
 		"contactNumber": "+7 (8512) 41-00-00",
-		"cityId": "Астрахань",
+		"city": "Астрахань",
 		"address": "Астрахань",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -16045,7 +16045,7 @@
 		"website": "https://www.asmu.ru",
 		"email": "info@asmu.ru",
 		"contactNumber": "+7 (3852) 29-00-00",
-		"cityId": "Барнаул",
+		"city": "Барнаул",
 		"address": "Барнаул",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -16176,7 +16176,7 @@
 		"website": "https://www.bsu.edu.ru",
 		"email": "info@bsu.edu.ru",
 		"contactNumber": "+7 (4722) 32-00-00",
-		"cityId": "Белгород",
+		"city": "Белгород",
 		"address": "Белгород",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -16291,7 +16291,7 @@
 		"website": "https://amursu.ru",
 		"email": "info@amursu.ru",
 		"contactNumber": "+7 (4162) 26-00-00",
-		"cityId": "Благовещенск",
+		"city": "Благовещенск",
 		"address": "Благовещенск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -16404,7 +16404,7 @@
 		"website": "https://bratskstate.ru",
 		"email": "info@bratskstate.ru",
 		"contactNumber": "+7 (3953) 49-00-00",
-		"cityId": "Братск",
+		"city": "Братск",
 		"address": "Братск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -16522,7 +16522,7 @@
 		"website": "https://bgau.ru",
 		"email": "info@bgau.ru",
 		"contactNumber": "+7 (4832) 77-00-00",
-		"cityId": "Брянск",
+		"city": "Брянск",
 		"address": "Брянск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -16620,7 +16620,7 @@
 		"website": "https://www.cherepovets.ru/",
 		"email": "info@cherepovets.ru",
 		"contactNumber": "+7 (8202) 55-00-00",
-		"cityId": "Череповец",
+		"city": "Череповец",
 		"address": "Череповец",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -16735,7 +16735,7 @@
 		"website": "https://www.mgua.ru",
 		"email": "info@mgua.ru",
 		"contactNumber": "+7 (495) 690-88-88",
-		"cityId": "Москва",
+		"city": "Москва",
 		"address": "Москва",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -16840,7 +16840,7 @@
 		"website": "https://www.kalmgu.ru",
 		"email": "info@kalmgu.ru",
 		"contactNumber": "+7 (84722) 4-22-22",
-		"cityId": "Элиста",
+		"city": "Элиста",
 		"address": "Элиста",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -16947,7 +16947,7 @@
 		"website": "https://www.chuvsu.ru",
 		"email": "info@chuvsu.ru",
 		"contactNumber": "+7 (8352) 24-00-00",
-		"cityId": "Чебоксары",
+		"city": "Чебоксары",
 		"address": "Чебоксары",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -17084,7 +17084,7 @@
 		"website": "https://www.gasu.ru",
 		"email": "info@gasu.ru",
 		"contactNumber": "+7 (38822) 5-15-00",
-		"cityId": "Горно-Алтайск",
+		"city": "Горно-Алтайск",
 		"address": "Горно-Алтайск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -17199,7 +17199,7 @@
 		"website": "http://www.chgpu.ru",
 		"email": "info@chgpu.ru",
 		"contactNumber": "+7 (8712) 22-22-33",
-		"cityId": "Грозный",
+		"city": "Грозный",
 		"address": "Грозный",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -17293,7 +17293,7 @@
 		"website": "https://en.baltij.ru/",
 		"email": "info@baltij.ru",
 		"contactNumber": "+7 (4012) 59-00-00",
-		"cityId": "Калининград",
+		"city": "Калининград",
 		"address": "Калининград",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -17403,7 +17403,7 @@
 		"website": "https://www.kstu.ru",
 		"email": "info@kstu.ru",
 		"contactNumber": "+7 (843) 231-00-00",
-		"cityId": "Казань",
+		"city": "Казань",
 		"address": "Казань",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -17501,7 +17501,7 @@
 		"website": "https://www.kaluga-gov.ru/university/",
 		"email": "info@ksu.edu.ru",
 		"contactNumber": "+7 (4842) 77-00-00",
-		"cityId": "Калуга",
+		"city": "Калуга",
 		"address": "Калуга",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -17623,7 +17623,7 @@
 		"website": "https://www.kai.ru",
 		"email": "info@kai.ru",
 		"contactNumber": "+7 (843) 231-00-00",
-		"cityId": "Казань",
+		"city": "Казань",
 		"address": "Казань",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -17748,7 +17748,7 @@
 		"website": "https://kgeu.ru",
 		"email": "info@kgeu.ru",
 		"contactNumber": "+7 (843) 231-00-00",
-		"cityId": "Казань",
+		"city": "Казань",
 		"address": "Казань",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -17858,7 +17858,7 @@
 		"website": "https://kgasu.ru",
 		"email": "info@kgasu.ru",
 		"contactNumber": "+7 (843) 231-00-00",
-		"cityId": "Казань",
+		"city": "Казань",
 		"address": "Казань",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -17981,7 +17981,7 @@
 		"website": "https://www.hsepl.ru",
 		"email": "info@hsepl.ru",
 		"contactNumber": "+7 (4212) 31-00-00",
-		"cityId": "Хабаровск",
+		"city": "Хабаровск",
 		"address": "Хабаровск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -18079,7 +18079,7 @@
 		"website": "https://krasgau.ru",
 		"email": "info@krasgau.ru",
 		"contactNumber": "+7 (391) 267-00-00",
-		"cityId": "Красноярск",
+		"city": "Красноярск",
 		"address": "Красноярск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -18210,7 +18210,7 @@
 		"website": "https://mgau.ru",
 		"email": "info@mgau.ru",
 		"contactNumber": "+7 (47545) 5-22-22",
-		"cityId": "Мичуринск",
+		"city": "Мичуринск",
 		"address": "Мичуринск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -18333,7 +18333,7 @@
 		"website": "https://www.mstu.edu.ru",
 		"email": "info@mstu.edu.ru",
 		"contactNumber": "+7 (8152) 45-00-00",
-		"cityId": "Мурманск",
+		"city": "Мурманск",
 		"address": "Мурманск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -18443,7 +18443,7 @@
 		"website": "https://kbgau.ru",
 		"email": "info@kbgau.ru",
 		"contactNumber": "+7 (8662) 44-20-20",
-		"cityId": "Нальчик",
+		"city": "Нальчик",
 		"address": "Нальчик",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -18547,7 +18547,7 @@
 		"website": "https://www.nglu.ru",
 		"email": "info@nglu.ru",
 		"contactNumber": "+7 (831) 433-00-00",
-		"cityId": "Нижний Новгород",
+		"city": "Нижний Новгород",
 		"address": "Нижний Новгород",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -18680,7 +18680,7 @@
 		"website": "https://unn.ru",
 		"email": "info@unn.ru",
 		"contactNumber": "+7 (831) 462-91-11",
-		"cityId": "Нижний Новгород",
+		"city": "Нижний Новгород",
 		"address": "Нижний Новгород",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -18803,7 +18803,7 @@
 		"website": "https://www.orenburg.ru/",
 		"email": "info@orenburg.ru",
 		"contactNumber": "+7 (3532) 45-00-00",
-		"cityId": "Оренбург",
+		"city": "Оренбург",
 		"address": "Оренбург",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -18931,7 +18931,7 @@
 		"website": "https://www.ngmu.ru",
 		"email": "info@ngmu.ru",
 		"contactNumber": "+7 (831) 462-00-00",
-		"cityId": "Нижний Новгород",
+		"city": "Нижний Новгород",
 		"address": "Нижний Новгород",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -19059,7 +19059,7 @@
 		"website": "https://www.orlu.ru",
 		"email": "info@orlu.ru",
 		"contactNumber": "+7 (4862) 77-00-00",
-		"cityId": "Орёл",
+		"city": "Орёл",
 		"address": "Орёл",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -19170,7 +19170,7 @@
 		"website": "https://www.pnzgu.ru",
 		"email": "info@pnzgu.ru",
 		"contactNumber": "+7 (8412) 56-00-00",
-		"cityId": "Пенза",
+		"city": "Пенза",
 		"address": "Пенза",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -19301,7 +19301,7 @@
 		"website": "https://pgmu.ru",
 		"email": "info@pgmu.ru",
 		"contactNumber": "+7 (342) 237-00-00",
-		"cityId": "Пермь",
+		"city": "Пермь",
 		"address": "Пермь",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -19429,7 +19429,7 @@
 		"website": "https://www.rin.ru",
 		"email": "info@rin.ru",
 		"contactNumber": "+7 (863) 240-00-00",
-		"cityId": "Ростов-на-Дону",
+		"city": "Ростов-на-Дону",
 		"address": "Ростов-на-Дону",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -19549,7 +19549,7 @@
 		"website": "https://sgua.ru",
 		"email": "info@sgua.ru",
 		"contactNumber": "+7 (8452) 26-00-00",
-		"cityId": "Саратов",
+		"city": "Саратов",
 		"address": "Саратов",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -19646,7 +19646,7 @@
 		"website": "https://www.donstu.ru",
 		"email": "info@donstu.ru",
 		"contactNumber": "+7 (863) 222-22-22",
-		"cityId": "Ростов-на-Дону",
+		"city": "Ростов-на-Дону",
 		"address": "Ростов-на-Дону",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -19774,7 +19774,7 @@
 		"website": "https://www.pglu.ru",
 		"email": "info@pglu.ru",
 		"contactNumber": "+7 (8793) 22-00-00",
-		"cityId": "Пятигорск",
+		"city": "Пятигорск",
 		"address": "Пятигорск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -19898,7 +19898,7 @@
 		"website": "https://www.sevsu.ru",
 		"email": "info@sevsu.ru",
 		"contactNumber": "+7 (8692) 54-00-00",
-		"cityId": "Севастополь",
+		"city": "Севастополь",
 		"address": "Севастополь",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -20029,7 +20029,7 @@
 		"website": "https://smolmed.ru",
 		"email": "info@smolmed.ru",
 		"contactNumber": "+7 (4812) 33-00-00",
-		"cityId": "Смоленск",
+		"city": "Смоленск",
 		"address": "Смоленск",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -20152,7 +20152,7 @@
 		"website": "https://sochi.su",
 		"email": "info@sochi.su",
 		"contactNumber": "+7 (862) 262-00-00",
-		"cityId": "Сочи",
+		"city": "Сочи",
 		"address": "Сочи",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -20267,7 +20267,7 @@
 		"website": "https://www.stgau.ru",
 		"email": "info@stgau.ru",
 		"contactNumber": "+7 (8652) 26-00-00",
-		"cityId": "Ставрополь",
+		"city": "Ставрополь",
 		"address": "Ставрополь",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -20385,7 +20385,7 @@
 		"website": "https://ugatu.ru",
 		"email": "info@ugatu.ru",
 		"contactNumber": "+7 (347) 246-00-00",
-		"cityId": "Уфа",
+		"city": "Уфа",
 		"address": "Уфа",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -20471,7 +20471,7 @@
 		"website": "https://syktsu.ru",
 		"email": "info@syktsu.ru",
 		"contactNumber": "+7 (8212) 24-00-00",
-		"cityId": "Сыктывкар",
+		"city": "Сыктывкар",
 		"address": "Сыктывкар",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -20598,7 +20598,7 @@
 		"website": "https://tgmu.tver.ru",
 		"email": "info@tgmu.tver.ru",
 		"contactNumber": "+7 (4822) 32-00-00",
-		"cityId": "Тверь",
+		"city": "Тверь",
 		"address": "Тверь",
 		"hasDorm": false,
 		"enrollmentDocuments": [
@@ -20721,7 +20721,7 @@
 		"website": "https://ulstu.ru",
 		"email": "info@ulstu.ru",
 		"contactNumber": "+7 (8422) 44-00-00",
-		"cityId": "Ульяновск",
+		"city": "Ульяновск",
 		"address": "Ульяновск",
 		"hasDorm": false,
 		"enrollmentDocuments": [

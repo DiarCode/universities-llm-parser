@@ -5,14 +5,8 @@ import os
 import re
 from typing import Any, Dict, List, Optional
 
-from openai import (
-    APIConnectionError,
-    APITimeoutError,
-    AsyncOpenAI,
-    BadRequestError,
-    InternalServerError,
-    RateLimitError,
-)
+from openai import (APIConnectionError, APITimeoutError, AsyncOpenAI,
+                    BadRequestError, InternalServerError, RateLimitError)
 
 from domain.enums import MAJOR_CATEGORY
 
@@ -221,7 +215,9 @@ SYS_MAJORS = (
     "Верни ПОЛНЫЙ список, если возможно; допускается пустой список, если подтверждённых данных нет. "
     "Каждая программа должна быть на русском языке, а категория — одно из значений enum (на английском). "
     "Если не можешь подтвердить пункт — пропусти. "
+    "Найди все актуальные специальности в данном университете. "
     "Все текстовые значения — строго на русском языке (кроме enum). "
+    "Поле Price (цена) если поступление на специальность платная должна быть в KZT (Казахстанской валюте Тенге) для всех стран и университетов, только в эквиваленте Казахстанской тенге KZT"
     "Отвечай только JSON по заданной схеме."
 )
 

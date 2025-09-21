@@ -1,30 +1,34 @@
 # domain/dto.py
-from pydantic import BaseModel, Field
 from typing import List, Optional
-from domain.enums import (
-    INSTITUTION_FINANCING_TYPE,
-    INSTITUTION_TYPE,
-    ENROLLMENT_REQUIREMENT_TYPE,
-    MAJOR_CATEGORY,
-)
+
+from pydantic import BaseModel, Field
+
+from domain.enums import (ENROLLMENT_REQUIREMENT_TYPE,
+                          INSTITUTION_FINANCING_TYPE, INSTITUTION_TYPE,
+                          MAJOR_CATEGORY)
+
 
 class CountryRow(BaseModel):
     id: int
     name: str
     emoji: Optional[str] = None
 
+
 class CityRow(BaseModel):
     id: int
     countryId: int
     name: str
 
+
 class CreateInstitutionEnrollmentDocumentDto(BaseModel):
     name: str
+
 
 class CreateInstitutionEnrollmentRequirementDto(BaseModel):
     name: str
     type: ENROLLMENT_REQUIREMENT_TYPE
     value: Optional[str] = None
+
 
 class CreateInstitutionMajorDto(BaseModel):
     name: str
@@ -34,6 +38,7 @@ class CreateInstitutionMajorDto(BaseModel):
     price: Optional[float] = None
     category: MAJOR_CATEGORY
     requirements: Optional[List[str]] = None
+
 
 class CreateInstitutionBulkDto(BaseModel):
     # Все текстовые поля (кроме enum) — на русском
@@ -48,13 +53,16 @@ class CreateInstitutionBulkDto(BaseModel):
     contactNumber: Optional[str] = None
 
     # ВНИМАНИЕ: теперь строка — передаём НАЗВАНИЕ города
-    cityId: str
+    city: str
 
     # Backend на загрузке найдет city по имени и поставит numeric countryId сам
     # (не включаем countryId в upload JSON)
     address: Optional[str] = None
     hasDorm: Optional[bool] = False
 
+    enrollmentDocuments: List[CreateInstitutionEnrollmentDocumentDto]
+    enrollmentRequirements: List[CreateInstitutionEnrollmentRequirementDto]
+    majors: Optional[List[CreateInstitutionMajorDto]] = None
     enrollmentDocuments: List[CreateInstitutionEnrollmentDocumentDto]
     enrollmentRequirements: List[CreateInstitutionEnrollmentRequirementDto]
     majors: Optional[List[CreateInstitutionMajorDto]] = None
